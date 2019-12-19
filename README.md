@@ -6,6 +6,6 @@ Our analysis found that for almost all of the 50 most-prescribed brand-name drug
 
 With the available observational data we are not able to say whether payments lead to prescribing that is counter to patients’ interests, but our analysis provides new insight into the dynamics between doctors’ industry interactions and their prescribing. 
 
-Read our (methodology)[https://projects.propublica.org/graphics/d4dpartd-methodology] for more about the analysis.
+Read our [methodology](https://projects.propublica.org/graphics/d4dpartd-methodology) for more about the analysis.
 
-The data is available on the ProPublica (data store)[linkTK].
+The data is available on the ProPublica [data store](linkTK).

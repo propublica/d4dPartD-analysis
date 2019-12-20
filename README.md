@@ -8,4 +8,8 @@ With the available observational data we are not able to say whether payments le
 
 Read our [methodology](https://projects.propublica.org/graphics/d4dpartd-methodology) for more about the analysis.
 
-The data is available on the ProPublica [data store](linkTK).
+The data is available on the ProPublica [data store](https://www.propublica.org/datastore/collection/industry-payments-and-provider-prescribing-patterns).
+
+  - Analysis-ready data is available [here](https://www.propublica.org/datastore/dataset/dollars-for-docs-medicare-part-d-top-50-drugs-2016).
+  - The Open Payments data used in the analysis was released by CMS on Jan. 17, 2018. That data is no longer available from CMS, but the latest version can be downloaded [here](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads).
+  - The Part D prescribing data used in the analysis can be downloaded [here](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/PartD2016).
